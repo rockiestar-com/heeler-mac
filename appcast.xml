@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Heeler for Mac</title>
+    <link>https://rockiestar-com.github.io/heeler-mac/appcast.xml</link>
+    <language>en</language>
+  </channel>
+</rss>
