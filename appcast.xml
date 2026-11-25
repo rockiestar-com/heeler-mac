@@ -4,5 +4,14 @@
     <title>Heeler for Mac</title>
     <link>https://rockiestar-com.github.io/heeler-mac/appcast.xml</link>
     <language>en</language>
+    <item>
+      <title>0.1.23</title>
+      <pubDate>Wed, 25 Nov 2026 12:53:46 GMT</pubDate>
+      <sparkle:version>2026112512</sparkle:version>
+      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rockiestar-com/heeler-mac/releases/tag/v0.1.23</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rockiestar-com/heeler-mac/releases/download/v0.1.23/Heeler-0.1.23.zip" sparkle:edSignature="+mwhWVgz+mIlMLhxDZfVHjb4cTtAeIHAu1Hj2UPbX8eC25SUdXpHjB9VTpJdkGzKvWRL3TwHeM5TSJslANAsBg==" length="21904133" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
